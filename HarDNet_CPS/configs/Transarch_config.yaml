@@ -1,0 +1,12 @@
+name: "TransHarDNet"
+first_ch:
+  - [8, 16]
+ch_list: 320
+  - [32, 32, 64, 128, 256]
+gr:
+  - [14, 16, 40, 160]
+n_layers:
+  - [8, 16, 16, 4]
+downSamp:
+  - [0, 0, 0, 0, 0]
+drop_rate: 0.2

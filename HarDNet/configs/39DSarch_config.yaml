@@ -1,0 +1,16 @@
+name: "HarDNet39DS"
+first_ch:
+  - [24, 48]
+ch_list:
+  - [96, 320, 640, 1024]
+rfb:
+  - [320, 640, 1024]
+gr:
+  - [16, 20, 64, 160]
+grmul: 1.6
+n_layers:
+  - [4, 16, 8, 4]
+downSamp:
+  - [1, 1, 1, 0]
+drop_rate: 0
+depthwise: 1

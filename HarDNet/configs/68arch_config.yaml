@@ -1,0 +1,16 @@
+name: "HarDNet68"
+first_ch:
+  - [32, 64]
+ch_list: 
+  - [128, 256, 320, 640, 1024]
+rfb:
+  - [320, 640, 1024]
+gr:
+  - [14, 16, 20, 40, 160]
+grmul: 1.7
+n_layers:
+  - [8, 16, 16, 16, 4]
+downSamp:
+  - [1, 0, 1, 1, 0]
+drop_rate: 0.2
+depthwise: 0
