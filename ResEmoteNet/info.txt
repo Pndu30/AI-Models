@@ -1,0 +1,2 @@
+Model based on https://arxiv.org/abs/2409.10545
+Model I used in the project https://github.com/Pndu30/Face-Expression-Detector
