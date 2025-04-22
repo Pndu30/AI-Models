@@ -1,10 +1,10 @@
-# 🧠 AI Models Collection
+# AI Models Collection
 
 This repository contains various deep learning models that I've implemented, some with modifications or tweaks from their original papers. ✅ indicates completed implementations.
 
 ---
 
-## 📦 Implemented Models
+## 1. Implemented Models
 
 | Model            | Status | Description |
 |------------------|--------|-------------|
@@ -16,11 +16,11 @@ This repository contains various deep learning models that I've implemented, som
 
 ---
 
-## 🚧 TODO
+## 2. TODO
 
-- 🔧 Finish **HarDNet-CPS** and **FMPN** implementations
-- 🧪 Explore alternative backends like **TensorFlow** and **TinyGrad**
-- 📚 Possibly add model training configs and evaluation scripts
+- Finish **HarDNet-CPS** and **FMPN** implementations
+- Explore alternative backends like **TensorFlow** and **TinyGrad**
+- Possibly add model training configs and evaluation scripts
 
 ---
 
